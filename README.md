@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at TaskUs as a Data Visualization Analyst.
-- 🌱 I’m currently learning Machine Learning.
+- 🔭 I’m currently working at Short Stay AI as Head of Data Science.
+- 🌱 I’m currently learning AWS.
 - 👯 I’m looking to collaborate on cool future projects.
 - 💬 Ask me about anything Python and Data Science related.
 - 📫 How to reach me: jplau14 @ LinkedIn
