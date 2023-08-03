@@ -10,7 +10,7 @@
   <a href="https://medium.com/@johnpatricklaurel14">
     <img src="https://img.shields.io/badge/--_.svg?style=social&logo=medium" alt="LinkedIn">
   </a>
-	<a href="https://drive.google.com/file/d/19-7FzpN7bBhBwL5vaCVTan1EhPSCLvjk/view?usp=sharing">
+	<a href="https://drive.google.com/file/d/1d0v_oFZ3cPRaUicVvmlldcZ1_HMj_1Vy/view?usp=sharing">
     <img src="https://img.shields.io/badge/--_.svg?style=social&logo=giphy" alt="Resume">
   </a>
 </p>
