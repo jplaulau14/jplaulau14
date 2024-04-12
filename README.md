@@ -15,8 +15,7 @@
   </a>
 </p>
 
-I am interested about Machine Learning/MLE, Data Engineering, Security, and Software Engineering. I'm currently the Head of Data Science at Short Stay AI. I'm currently focused on Data Engineering and Security.
-
+I am interested about Machine Learning/MLE, Data Engineering, Security, and Software Engineering. I'm currently a Team Lead - Full Stack Engineering (AI).
 ## Tech Stack
 | Technology       | Tools                                                                                                                                                                                                                                                              |
 |------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
