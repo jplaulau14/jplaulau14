@@ -36,12 +36,12 @@ I'm an **AI/ML Engineer** and **Team Lead** with a passion for building intellig
       <strong>🧠 AI & Machine Learning</strong>
     </td>
     <td>
-      <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>
-      <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-original.svg" alt="Pytorch" height="40" /></a>
-      <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-original.svg" alt="TensorFlow" height="40" /></a>
-      <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scikit-learn.svg" alt="scikit-learn" height="40" /></a>
-      <a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/jplaulau14/jplaulau14/main/assets/hugging-face.svg" alt="Hugging Face" height="40" /></a>
-      <a href="https://auto.gluon.ai/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/jplaulau14/jplaulau14/main/assets/autogluon.svg" alt="AutoGluon" height="40" /></a>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+      <a href="https://auto.gluon.ai/" target="_blank"><img src="https://raw.githubusercontent.com/awslabs/autogluon/master/docs/_static/autogluon_logo_text.png" alt="AutoGluon" height="28px" /></a>
     </td>
   </tr>
   <tr>
@@ -49,11 +49,11 @@ I'm an **AI/ML Engineer** and **Team Lead** with a passion for building intellig
       <strong>☁️ Cloud & MLOps</strong>
     </td>
     <td>
-      <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" /></a>
-      <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-original.svg" alt="GCP" height="40" /></a>
-      <a href="https://aws.amazon.com/sagemaker/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/jplaulau14/jplaulau14/main/assets/sagemaker.svg" alt="SageMaker" height="40" /></a>
-      <a href="https://cloud.google.com/vertex-ai" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/jplaulau14/jplaulau14/main/assets/vertex-ai.svg" alt="Vertex AI" height="40" /></a>
-      <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>
+      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+      <img src="https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="SageMaker" />
+      <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     </td>
   </tr>
   <tr>
@@ -61,10 +61,11 @@ I'm an **AI/ML Engineer** and **Team Lead** with a passion for building intellig
       <strong>🛠️ Backend & API</strong>
     </td>
     <td>
-      <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="40" /></a>
-      <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/fastapi.svg" alt="FastAPI" height="40" /></a>
-      <a href="https://aws.amazon.com/lambda/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws_lambda.png" alt="AWS Lambda" height="40" /></a>
-      <a href="https://github.com/aws/chalice" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/jplaulau14/jplaulau14/main/assets/chalice.png" alt="AWS Chalice" height="40" /></a>
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+      <a href="https://github.com/aws/chalice" target="_blank"><img src="https://raw.githubusercontent.com/aws/chalice/master/logo.png" alt="AWS Chalice" height="28px" /></a>
     </td>
   </tr>
   <tr>
@@ -72,11 +73,11 @@ I'm an **AI/ML Engineer** and **Team Lead** with a passion for building intellig
       <strong>🗃️ Databases & Data</strong>
     </td>
     <td>
-      <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" /></a>
-      <a href="https://supabase.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/supabase.png" alt="Supabase" height="40" /></a>
-      <a href="https://cloud.google.com/bigquery" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/jplaulau14/jplaulau14/main/assets/bigquery.svg" alt="BigQuery" height="40" /></a>
-      <a href="https://aws.amazon.com/redshift/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/jplaulau14/jplaulau14/main/assets/redshift.svg" alt="Redshift" height="40" /></a>
-      <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazon-s3.png" alt="S3" height="40" /></a>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="BigQuery" />
+      <img src="https://img.shields.io/badge/Amazon_Redshift-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Redshift" />
+      <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3" />
     </td>
   </tr>
   <tr>
@@ -84,10 +85,10 @@ I'm an **AI/ML Engineer** and **Team Lead** with a passion for building intellig
       <strong>🌐 Frontend</strong>
     </td>
     <td>
-      <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>
-      <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>
-      <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" /></a>
-      <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutter-original.svg" alt="Flutter" height="40" /></a>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
     </td>
   </tr>
 </table>
@@ -98,7 +99,7 @@ I'm an **AI/ML Engineer** and **Team Lead** with a passion for building intellig
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jplaulau14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplaulau14&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplaulau14&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook"/>
 </p>
 
 ---
