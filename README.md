@@ -12,7 +12,7 @@ I'm an **AI/ML Engineer** and **Team Lead** with a passion for building intellig
   <a href="https://medium.com/@johnpatricklaurel14">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
-  <a href="https://drive.google.com/file/d/1d0v_oFZ3cPRaUicVvmlldcZ1_HMj_1Vy/view?usp=sharing">
+  <a href="[https://drive.google.com/file/d/1d0v_oFZ3cPRaUicVvmlldcZ1_HMj_1Vy/view?usp=sharing](https://drive.google.com/file/d/1--3I8GbzYhN8xKskO-wdu0m2LPEC5MHM/view?usp=sharing)">
     <img src="https://img.shields.io/badge/View_My_Resume-EA4335?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
   </a>
 </p>
