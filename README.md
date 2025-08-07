@@ -41,7 +41,6 @@ I'm an **AI/ML Engineer** and **Team Lead** with a passion for building intellig
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
       <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-      <a href="https://auto.gluon.ai/" target="_blank"><img src="https://raw.githubusercontent.com/awslabs/autogluon/master/docs/_static/autogluon_logo_text.png" alt="AutoGluon" height="28px" /></a>
     </td>
   </tr>
   <tr>
@@ -65,7 +64,6 @@ I'm an **AI/ML Engineer** and **Team Lead** with a passion for building intellig
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda" />
-      <a href="https://github.com/aws/chalice" target="_blank"><img src="https://raw.githubusercontent.com/aws/chalice/master/logo.png" alt="AWS Chalice" height="28px" /></a>
     </td>
   </tr>
   <tr>
@@ -99,7 +97,7 @@ I'm an **AI/ML Engineer** and **Team Lead** with a passion for building intellig
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jplaulau14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplaulau14&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplaulau14&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook,swift,c,c%2B%2B,html,css,javascript"/>
 </p>
 
 ---
