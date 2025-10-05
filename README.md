@@ -1,6 +1,6 @@
 # Hi there, I'm Pats! 👋
 
-I'm an **AI/ML Engineer** and **Team Lead** specializing in the next generation of intelligent systems. My passion is building and deploying robust, scalable applications powered by Large Language Models and Agentic AI.
+I'm an **AI/ML Engineer** specializing in the next generation of intelligent systems. My passion is building and deploying robust, scalable applications powered by Large Language Models and Agentic AI.
 
 <p align="left">
   <a href="https://github.com/jplaulau14">
