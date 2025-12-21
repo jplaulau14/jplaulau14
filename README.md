@@ -21,11 +21,12 @@ I'm an **AI/ML Engineer** specializing in the next generation of intelligent sys
 
 ### 🚀 Core Competencies
 
-* **LLM Application Development:** Engineering advanced **Retrieval-Augmented Generation (RAG)** pipelines, autonomous agents, and complex agentic workflows using frameworks like LangChain and PydanticAI.
-* **Model Serving & Optimization:** Deploying and scaling models for production, from cloud-based serverless endpoints (AWS Lambda) to local inference with tools like **Ollama**.
-* **MLOps & Data Engineering:** Architecting robust infrastructure for the ML lifecycle, including data storage (PostgreSQL, S3) and vector databases (Qdrant, Pinecone).
-* **Full-Stack AI Systems:** Building end-to-end solutions with performant Python backends (FastAPI) and modern frontends (React, Next.js).
-* **Advanced Learning Paradigms:** Focused on **NLP (LLMs)**, **Reinforcement Learning**, and **Causal Inference** for robust decision-making systems.
+* **LLM & Agentic Systems:** Engineering production-grade **RAG pipelines**, autonomous agents, and complex agentic workflows using LangChain, LlamaIndex, and PydanticAI—backed by vector stores like Qdrant, Pinecone, Weaviate, and pgvector.
+* **High-Performance ML:** Accelerating inference and training with **CUDA, Triton, JAX, TensorRT, and ONNX Runtime**. Writing performance-critical code in **Rust, Go, C, and C++** when Python isn't fast enough.
+* **Model Serving at Scale:** Deploying models to production via **Kubernetes, KServe, gRPC, and serverless** (AWS Lambda), with caching (Redis) and load balancing (NGINX) for low-latency inference.
+* **End-to-End MLOps:** Building reproducible ML pipelines with **MLflow, Weights & Biases, DVC, Airflow, Dagster, and Kubeflow**—including model monitoring (Evidently, WhyLabs) and observability (Prometheus, Grafana, OpenTelemetry).
+* **Data & Streaming Infrastructure:** Architecting real-time and batch data systems with **Kafka, Spark, and DuckDB**, plus cloud-native storage on AWS (S3, SageMaker, Bedrock) and GCP.
+* **Full-Stack AI Applications:** Shipping end-to-end products with **FastAPI** backends, **React/Next.js** frontends, and **PostgreSQL/Supabase** for persistence.
 
 ---
 
