@@ -153,7 +153,8 @@ When I'm not training models or debugging pipelines, you'll find me jamming to R
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-green-six-21.vercel.app/api?username=jplaulau14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-green-six-21.vercel.app/api/top-langs/?username=jplaulau14&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook,swift,c,c%2B%2B,html,css,javascript"/>
+  <!-- <img height="180em" src="https://github-readme-stats-green-six-21.vercel.app/api/top-langs/?username=jplaulau14&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook,swift,c,c%2B%2B,html,css,javascript"/> -->
+  <img height="180em" src="https://github-readme-stats-green-six-21.vercel.app/api/top-langs/?username=jplaulau14&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
