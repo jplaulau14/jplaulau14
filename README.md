@@ -24,7 +24,6 @@ When I'm not training models or debugging pipelines, you'll find me jamming to R
 ### 🚀 Core Competencies
 
 * **LLM & Agentic Systems:** Engineering production-grade **RAG pipelines**, autonomous agents, and complex agentic workflows using LangChain, LlamaIndex, and PydanticAI—backed by vector stores like Qdrant, Pinecone, Weaviate, and pgvector.
-* **High-Performance ML:** Accelerating inference and training with **CUDA, Triton, JAX, TensorRT, and ONNX Runtime**. Writing performance-critical code in **Rust, Go, C, and C++** when Python isn't fast enough.
 * **Model Serving at Scale:** Deploying models to production via **Kubernetes, KServe, gRPC, and serverless** (AWS Lambda), with caching (Redis) and load balancing (NGINX) for low-latency inference.
 * **End-to-End MLOps:** Building reproducible ML pipelines with **MLflow, Weights & Biases, DVC, Airflow, Dagster, and Kubeflow**—including model monitoring (Evidently, WhyLabs) and observability (Prometheus, Grafana, OpenTelemetry).
 * **Data & Streaming Infrastructure:** Architecting real-time and batch data systems with **Kafka, Spark, and DuckDB**, plus cloud-native storage on AWS (S3, SageMaker, Bedrock) and GCP.
@@ -45,27 +44,12 @@ When I'm not training models or debugging pipelines, you'll find me jamming to R
 </details>
 
 <details>
-<summary><b>🧮 Performance & Numerical Computing</b></summary>
-<br>
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
-<img src="https://img.shields.io/badge/Triton-0A0A0A?style=for-the-badge" alt="Triton" />
-<img src="https://img.shields.io/badge/JAX-007ACC?style=for-the-badge" alt="JAX" />
-<img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX Runtime" />
-<img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="TensorRT" />
-</details>
-
-<details>
 <summary><b>🧠 Machine Learning</b></summary>
 <br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<br><br>
-<b>Focus Areas:</b><br>
-<img src="https://img.shields.io/badge/NLP_(LLMs)-FF6F00?style=for-the-badge" alt="NLP (LLMs)" />
-<img src="https://img.shields.io/badge/Reinforcement_Learning-1E90FF?style=for-the-badge" alt="Reinforcement Learning" />
-<img src="https://img.shields.io/badge/Causal_Inference-8A2BE2?style=for-the-badge" alt="Causal Inference" />
 </details>
 
 <details>
